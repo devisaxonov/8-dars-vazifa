@@ -1,1 +1,2 @@
 "Yangi matn" 
+"Birinchi faylga o'zgartirish" 
